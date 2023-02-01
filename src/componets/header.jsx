@@ -24,6 +24,7 @@ function Header() {
         <ul className=' col-span-flexs gap-4 flex  max-w-sm overflow-auto
         snap-always p-4 text-lg '>
             <li>
+              
             <NavLink to='/'>
               
           
